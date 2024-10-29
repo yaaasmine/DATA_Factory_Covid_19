@@ -144,8 +144,6 @@
     "## Mount the following data lake storage gen2 containers\n",
     "\n",
     "\n",
-    "storage_account_name = \"",
-    "storage_account_key  = \"",
     "\n",
     "\n",
     "spark.conf.set(\n",
