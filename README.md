@@ -40,7 +40,7 @@ We utilized various components of ADF pipeline activities for data ingestion, in
 - Copy Activity
 
 ### Population Data: Load into Storage Account and Move to Destination Data Lake
-![Data Load Process](https://github.com/user-attachments/assets/76fd3c2c-1ce1-4b66-9cda-590cbf8bb2d8)
+![Frame 3](https://github.com/user-attachments/assets/ddbaf67b-4a3b-4f78-8b3f-4bfb844ed4a6)
 
 ### Steps:
 1. Create a Linked Service to Azure Blob Storage
@@ -60,7 +60,7 @@ We utilized various components of ADF pipeline activities for data ingestion, in
 4. Country Response.csv
 
 ## Solution Flow
-![Solution Flow](https://github.com/user-attachments/assets/e28a0204-c17e-42b1-bec4-57ca8a55a343)
+![Frame 3 (1)](https://github.com/user-attachments/assets/d904b907-45fc-42df-9df8-5a0d11a448bd)
 
 ### Steps:
 1. Create a Linked Service using an HTTP connector
